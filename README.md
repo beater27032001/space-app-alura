@@ -49,6 +49,6 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
 
 Você também pode acessar o aplicativo online através do link abaixo:
 
-[Galeria de Fotos Espaciais - Versão Online](https://seu-link-deploy)
+[Galeria de Fotos Espaciais - Versão Online](https://space-app-alura-alpha.vercel.app/)
 
 ---
